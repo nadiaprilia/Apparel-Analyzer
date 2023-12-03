@@ -4,4 +4,3 @@ os-sys
 Pillow
 matplotlib
 mlxtend
-pip 23.3.1
