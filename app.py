@@ -323,11 +323,11 @@ def tampilkan_jejeran_gambar(gambar_paths, ukuran=720):
 
 # Daftar path gambar yang ingin ditampilkan
 gambar_list = [
-    'C:/Users/Lenovo/OneDrive/Documents/Apparel Analyzer/images/Nadia.jpg',
-    'C:/Users/Lenovo/OneDrive/Documents/Apparel Analyzer/images/fena.jpg',
-    'C:/Users/Lenovo/OneDrive/Documents/Apparel Analyzer/images/yafi.jpeg',
-    'C:/Users/Lenovo/OneDrive/Documents/Apparel Analyzer/images/tohir.jpeg',
-    'C:/Users/Lenovo/OneDrive/Documents/Apparel Analyzer/images/hilda.jpg'
+    'images/Nadia.jpg',
+    'images/fena.jpg',
+    'images/yafi.jpeg',
+    'images/tohir.jpeg',
+    'images/hilda.jpg'
 ]
 
 # Panggil fungsi untuk menampilkan 5 gambar bersebelahan dengan ukuran yang sama
